@@ -1,4 +1,13 @@
 # Online-Movie-Store-DBMS
-•Collaborated with 2 teammates to develop a database management system for an online movie store.
-•Designed and developed the database using relational diagrams, SQL and normalization rules.
-•Implemented a Bash and a Java user interface to query the database.
+
+This is a database management system designed to help manage an online movie store. 
+
+It allows for the tracking of inventory, customer information, billing, and reporting.
+
+Inventory management: Track movie titles, genres, ratings, and availability.
+
+Customer management: Keep track of customer information, including name, email, phone number, and payment method.
+
+Keep track of fanclubs customer sign up for as well as movie reviews left by customers.
+
+Bash and Java user interface to query database.
